@@ -15,14 +15,14 @@ public class Main {
         p.Name = name;
         p.Price = price;
         p.Quantity = quantity;
-        System.out.println("Dados do produto: " + p.Name + ", R$" + p.Price + ", " + p.Quantity + " unidades, Total: R$" + p.TotalValueInStock());
+        System.out.println(p);
         System.out.println("Digite o valor para adicionar a quantidade de produto no estoque: ");
         quantity = sc.nextInt();
         p.AddProducts(quantity);
         System.out.println("Digite a quantidade de produtos que quer remover do estoque:");
         quantity = sc.nextInt();
         p.RemoveProducts(quantity);
-        System.out.println("Dados do produto: " + p.Name + ", R$" + p.Price + ", " + p.Quantity + " unidades, Total: R$" + p.TotalValueInStock());
+        System.out.println(p);
         sc.close();
     }
 }
