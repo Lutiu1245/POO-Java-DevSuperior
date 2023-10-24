@@ -21,6 +21,9 @@ public class Main {
         quantity = sc.nextInt();
         p.RemoveProducts(quantity);
         System.out.println(p);
+        System.out.println(p.getPrice());
+        p.setPrice(22.0);
+        System.out.println(p.getPrice());
         sc.close();
     }
 }
