@@ -1,7 +1,7 @@
 package Constructor;
 
 public class Produto {
-    private String Name;
+    String Name;
     private double Price;
     private int Quantity;
 
