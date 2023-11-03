@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aab59974-5b65-44c8-ad99-dd36f5811dfa" name="Changes" comment="Exercicios de memoria e vetores">
-      <change afterPath="$PROJECT_DIR$/src/Listas/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio_lista_empregado/Main.java" afterDir="false" />
+    <list default="true" id="aab59974-5b65-44c8-ad99-dd36f5811dfa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Trabalhando_com_dates/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,12 +45,17 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/conta/IdeaProjects/POOJava-DevSuperior/POO-Java-DevSuperior/06/Classes/src/Main.java&quot;
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/conta/IdeaProjects/POOJava-DevSuperior/POO-Java-DevSuperior/06/Classes/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -59,7 +63,7 @@
       <recent name="Constructor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Desafio_Combate.Main">
+  <component name="RunManager">
     <configuration name="Desafio_Combate.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Desafio_Combate.Main" />
       <module name="Classes" />
@@ -127,9 +131,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Desafio_Combate.Main" />
         <item itemvalue="Application.exercicio_vetores_mediaProdutos.Main" />
         <item itemvalue="Application.exercicio_vetores_altura.Main" />
-        <item itemvalue="Application.Desafio_Combate.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.exercicio_construtores_291.Main" />
       </list>
@@ -152,12 +156,57 @@
       <option name="project" value="LOCAL" />
       <updated>1698762199010</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Conhecendo listas no Java">
+      <option name="closed" value="true" />
+      <created>1698785929021</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698785929021</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exercicio lista de empregados">
+      <option name="closed" value="true" />
+      <created>1698843630235</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698843630235</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Desafio contribuinte e lista">
+      <option name="closed" value="true" />
+      <created>1698854074969</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698854074969</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Exercicio de matrizes">
+      <option name="closed" value="true" />
+      <created>1699015490555</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699015490555</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Desafio das matrizes">
+      <option name="closed" value="true" />
+      <created>1699016561745</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699016561745</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercicios de memoria e vetores" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicios de memoria e vetores" />
+    <MESSAGE value="Conhecendo listas no Java" />
+    <MESSAGE value="Exercicio lista de empregados" />
+    <MESSAGE value="Desafio contribuinte e lista" />
+    <MESSAGE value="Exercicio de matrizes" />
+    <MESSAGE value="Desafio das matrizes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio das matrizes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
