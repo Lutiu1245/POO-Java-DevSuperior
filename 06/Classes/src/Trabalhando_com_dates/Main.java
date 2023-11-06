@@ -12,5 +12,6 @@ public class Main {
         Date data1 = date.parse("04/11/2000");
         Date data2 = dateH.parse("03/11/2010 12:59:59");
         System.out.println(dateH.format(data2));
+
     }
 }
