@@ -51,7 +51,7 @@ public class Main {
             }
         }
         System.out.println("PRICE TAGS:");
-        for (Object obj :
+        for (Product obj :
                 products) {
             System.out.println(obj);
         }
