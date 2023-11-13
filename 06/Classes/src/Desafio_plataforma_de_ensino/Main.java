@@ -42,7 +42,7 @@ public class Main {
         for (Lesson obj :
                 lessons) {
             sum += obj.duration();
-            System.out.println("DURAÇÃO TOTAL DO CURSO: " + sum);
+            System.out.println("DURAÇÃO TOTAL DO CURSO:  " + sum);
         }
     }
 }
