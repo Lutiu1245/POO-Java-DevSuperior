@@ -6,14 +6,14 @@ import Interface.Invoice;
 public class RentalService {
     private double pricePerHour;
     private double pricePerDay;
-    private BraziltaxService braziltaxService;
+    private TaxService braziltaxService;
 
     public RentalService(double pricePerHour, double pricePerDay) {
         this.pricePerHour = pricePerHour;
         this.pricePerDay = pricePerDay;
     }
 
-    public RentalService(double pricePerHour, double pricePerDay, BraziltaxService braziltaxService) {
+    public RentalService(double pricePerHour, double pricePerDay, TaxService braziltaxService) {
         this.pricePerHour = pricePerHour;
         this.pricePerDay = pricePerDay;
         this.braziltaxService = braziltaxService;
