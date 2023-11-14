@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aab59974-5b65-44c8-ad99-dd36f5811dfa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Problema_reuso1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problema_reuso1/services/PrintService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Default_methods/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Default_methods/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Default_methods/services/BrasilService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Default_methods/services/BrasilService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Default_methods/services/UsaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Default_methods/services/UsaService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Default_methods/services/interestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Default_methods/services/InterestService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,7 @@
       <recent name="Constructor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Desafio_Combate.Main">
+  <component name="RunManager">
     <configuration name="Desafio_Combate.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Desafio_Combate.Main" />
       <module name="Classes" />
@@ -283,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699970702855</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Mostrando problema usando o default methods">
+      <option name="closed" value="true" />
+      <created>1699970906848</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1699970906848</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -303,7 +310,8 @@
     <MESSAGE value="Exercicio de interface, mas ainda sem interface" />
     <MESSAGE value="Exercicio de interface, agora usando interface" />
     <MESSAGE value="Mostrando problema sem o default methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mostrando problema sem o default methods" />
+    <MESSAGE value="Mostrando problema usando o default methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mostrando problema usando o default methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

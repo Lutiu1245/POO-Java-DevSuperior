@@ -19,5 +19,9 @@ public class Main {
         InterestService usaService = new UsaService(1.0);
         double payment = brasilService.calculateInterest(amount, mounth);
         double payment2 = usaService.calculateInterest(amount, mounth);
+
+        System.out.println(String.format("%.2f", payment));
+        System.out.println(String.format("%.2f", payment2));
+        sc.close();
     }
 }
