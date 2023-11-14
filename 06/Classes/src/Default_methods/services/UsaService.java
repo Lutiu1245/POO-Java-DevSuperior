@@ -1,21 +1,15 @@
 package Default_methods.services;
 
-import java.security.InvalidParameterException;
-
-public class UsaService {
+public class UsaService implements InterestService {
     private double interestRate;
 
     public UsaService(double intesrestRate) {
         this.interestRate = intesrestRate;
     }
 
-    public double getIntesrestRate() {
+    @Override
+    public double getInterestRate() {
         return interestRate;
     }
-    public double calculeInterest(double amount, int mounth) {
-        if (amount < 1) {
-            throw new InvalidParameterException("Parametro deve ser maior de zero");
-        }
-        return amount * Math.pow(1 + interestRate/100, mounth);
-    }
+
 }
