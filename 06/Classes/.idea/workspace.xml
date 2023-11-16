@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aab59974-5b65-44c8-ad99-dd36f5811dfa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Problema_reuso1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problema_reuso1/services/PrintService.java" afterDir="false" />
+    <list default="true" id="aab59974-5b65-44c8-ad99-dd36f5811dfa" name="Changes" comment="Aprendendo sobre generics Types">
+      <change afterPath="$PROJECT_DIR$/src/Problema_generics2/Entities/Produtos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problema_generics2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problema_generics2/Services/CalculeServices.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Default_methods/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Default_methods/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -290,7 +290,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699970906848</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Aprendendo sobre generics Types">
+      <option name="closed" value="true" />
+      <created>1699990425979</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1699990425979</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -311,7 +319,8 @@
     <MESSAGE value="Exercicio de interface, agora usando interface" />
     <MESSAGE value="Mostrando problema sem o default methods" />
     <MESSAGE value="Mostrando problema usando o default methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mostrando problema usando o default methods" />
+    <MESSAGE value="Aprendendo sobre generics Types" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aprendendo sobre generics Types" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
