@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aab59974-5b65-44c8-ad99-dd36f5811dfa" name="Changes" comment="Aprendendo sobre generics Types">
-      <change afterPath="$PROJECT_DIR$/src/Problema_generics2/Entities/Produtos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problema_generics2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problema_generics2/Services/CalculeServices.java" afterDir="false" />
+    <list default="true" id="aab59974-5b65-44c8-ad99-dd36f5811dfa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/exercicio_set/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio_set/services/Aluno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -298,7 +297,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699990425979</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Resolvendo problemas com o Generic type">
+      <option name="closed" value="true" />
+      <created>1700141585994</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1700141585994</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Tipos coringa">
+      <option name="closed" value="true" />
+      <created>1700476180910</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1700476180910</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -320,7 +335,9 @@
     <MESSAGE value="Mostrando problema sem o default methods" />
     <MESSAGE value="Mostrando problema usando o default methods" />
     <MESSAGE value="Aprendendo sobre generics Types" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aprendendo sobre generics Types" />
+    <MESSAGE value="Resolvendo problemas com o Generic type" />
+    <MESSAGE value="Tipos coringa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tipos coringa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
