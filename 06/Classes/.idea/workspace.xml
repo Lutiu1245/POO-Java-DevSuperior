@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aab59974-5b65-44c8-ad99-dd36f5811dfa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercicio_set/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio_set/services/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio_map/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio_map/votacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -313,7 +313,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700476180910</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Exercicio de Set">
+      <option name="closed" value="true" />
+      <created>1700479542254</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1700479542254</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -337,7 +345,8 @@
     <MESSAGE value="Aprendendo sobre generics Types" />
     <MESSAGE value="Resolvendo problemas com o Generic type" />
     <MESSAGE value="Tipos coringa" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tipos coringa" />
+    <MESSAGE value="Exercicio de Set" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio de Set" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
